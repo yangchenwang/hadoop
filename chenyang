@@ -1,2 +1,4 @@
 #part3的设计思路
 见文件  算法设计.txt
+#part3的部分代码实现
+见文件 normalization.java,只实现了部分代码，wordpair类的实现;
